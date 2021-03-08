@@ -1,8 +1,11 @@
 # CV
 
-Username: Barbarian Backwards
 
-Contacts: 
+### Username:
+Barbarian Backwards
+
+
+### Contacts: 
 * discord: @nairabrab
 * address: ulitsa Pushkina, dom Kolotushkina, do vostrebovaniya
 
@@ -11,6 +14,7 @@ Contacts:
 Over-experienced trainee in web technologies. 
 Decades of natural acquisition (+9 months of prepairations, cause 
 >we were born for this
+>
 >we were born for this)
 
 Fast learner, hard gainer, also near-sighted (so can't really see myself in 5 years anywhere).
@@ -31,4 +35,6 @@ if (I.hadAWorldOf(MyOwn)) {
 ### Education:
 dropped out of Hogwarts due to too rational thinking
 
-English level: mgimo finished
+
+### English level:
+mgimo finished
